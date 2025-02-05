@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **aabshaarshaikh@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/14kbzV25iIPexEF4t_RAKYGOlMbnnmNkj/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1tJbe05hhwrbgiNYM6Gnnw5eA_IhZjOUi/view)
 
 - Portfolio [Portfolio](https://aabshaarshaikh20.github.io/AabshaarShaikh.github.iofinal/)
 
