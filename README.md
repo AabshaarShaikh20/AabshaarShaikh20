@@ -1,17 +1,14 @@
 [![MasterHead](https://camo.githubusercontent.com/d246f1db0e9889b1ff1d2e20848c36120a17299e8ae1346ed2ab9b35c4dcca2f/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f39652f30612f63382f39653061633832626331376666303037303864613662643039353933313737652e676966)](https://AabshaarShaikh20.io)
 <h1 align="center">Hi 👋, I'm Aabshaar Shaikh</h1>
-<h3 align="center">A Passionate Data Science Explorer. Eager to contribute and learn in this dynamic field.</h3>
+<h3 align="center">I'm a Data Analyst.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1280/1*B4NL8NsOivEV0UUx8CdYZg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aabshaarshaikh20&label=Profile%20views&color=0e75b6&style=flat" alt="aabshaarshaikh20" /> </p>
 
-- 🌱 I’m currently learning **Data Science and Analytics**
 
 - 👨‍💻 All of my projects are available at [https://aabshaarshaikh20.github.io/](https://aabshaarshaikh20.github.io/)
 
 - 📫 How to reach me **aabshaarshaikh@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1tJbe05hhwrbgiNYM6Gnnw5eA_IhZjOUi/view)
 
 - Portfolio [Portfolio](https://aabshaarshaikh20.github.io/AabshaarShaikh.github.iofinal/)
 
